@@ -39,6 +39,7 @@ terraform apply
 * Terraform apply success
 * EC2 instance running
 * SSH connection
+* Terraform Destory
 
 ## 📄 Documentation
 
